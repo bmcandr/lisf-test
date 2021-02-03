@@ -29,4 +29,3 @@ Before clicking submit:
 * Click the gear icons to the right to...
   * Request a review from a reviewer or team (e.g., Acceptors, LSM).
   * Select the relevant labels to help us categorize this PR.
-* **Lastly, delete this text.**
