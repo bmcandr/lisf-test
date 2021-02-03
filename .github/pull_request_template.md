@@ -3,14 +3,14 @@ Before opening a pull request:
 * Resolve any merge conflicts indicated by GitHub.
 * Select the appropriate branch to target and make your changes off of that branch. (See docs/working_with_github for more information.)
 
-<!-- DELETE ABOVE TEXT BEFORE SUBMITTING -->
+<!-- DELETE TEXT ABOVE BEFORE SUBMITTING -->
 
 **Description:**
 
 If merged, these changes will add/fix/remove...
 
 Resolves #
-<!-- insert Issue number after # above -->
+<!-- insert Issue number after # above (no spaces)-->
 
 <!-- If testing is not required, delete the section below. -->
 ----
