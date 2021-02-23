@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Bug Report
 about: Create a report to help us track bugs
 title: ''
 labels: bug
@@ -7,9 +7,10 @@ assignees: ''
 
 ---
 
-**Description:**
-Replace this text with a description of the bug, the expected behavior, and steps to reproduce.
+### Description
+<!-- Describe the bug and the expected behavior. -->
 
-<!-- If high priority, add the appropriate label.                      -->
-<!-- Drag and drop screenshots, if relevant.                          -->
-<!-- If you will be making a fix, assign yourself to this Issue. -->
+
+
+<!-- If high priority, add the label. -->
+<!-- If you will make a fix, assign yourself to this Issue. -->
