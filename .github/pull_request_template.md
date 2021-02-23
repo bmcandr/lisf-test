@@ -8,15 +8,10 @@
 
 ### Description
 <!-- Describe what was changed and why below. -->
-
+<!-- Include "closing words" to link an open Issue: Resolves #100 -->
 
 
 ### Testcase
-<!--
-Add path to testcase files and any special instructions below.
-If testing is not required, delete this section.
--->
+<!-- Add path to testcase files and any special instructions below. -->
+<!-- If testing is not required, delete this section. -->
 
-
-
-<!-- Link an open Issue using the gear icon to the right! -->
