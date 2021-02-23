@@ -7,10 +7,11 @@
 -->
 
 ### Description
-<!-- Describe what was changed and why below. -->
-<!-- Include "closing words" to link an open Issue: Resolves #100 -->
 
+Replace this text with a concise description of *what* was changed and *why*.
 
+<!-- Include "closing keywords" (e.g., Resolves #100) to link an open Issue. -->
+<!-- This will automatically close the Issue when the PR is merged. -->
 
 ### Testcase
 <!-- Add path to testcase files and any special instructions below. -->
