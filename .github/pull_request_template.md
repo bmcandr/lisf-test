@@ -2,9 +2,8 @@
   Before opening a pull request...
   * Open an Issue (if one doesn't already exist).
   * Resolve any merge conflicts indicated on this page.
-  * Select the appropriate base branch: master or support/*
-
-  See the Working with GitHub guide in docs/ for more.
+  * Select the appropriate base branch above: master or support/*
+    (see the Working with GitHub guide in docs/ for more)
 -->
 
 ### Description
