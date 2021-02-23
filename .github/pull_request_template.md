@@ -1,31 +1,24 @@
-Before opening a pull request:
-* Open an Issue if one does not already exist.
-* Resolve any merge conflicts indicated by GitHub.
-* Select the appropriate branch to target and make your changes off of that branch. (See docs/working_with_github for more information.)
+<!--
+  Before opening a pull request...
+  * Open an Issue (if one doesn't already exist).
+  * Resolve any merge conflicts indicated by GitHub.
+  * Select the appropriate base branch: master or support/*
+    (see the Working with GitHub guide in docs/)
+-->
 
-<!-- DELETE TEXT ABOVE BEFORE SUBMITTING -->
+### Description
+<!-- What was changed and why? -->
 
-**Description:**
 
-If merged, these changes will add/fix/remove...
-
-Resolves #
-<!-- insert Issue number after # above (no spaces)-->
 
 <!-- If testing is not required, delete the section below. -->
-----
+### Testcase
+* **Location:** /replace/with/path/to/testcase
+* **Testing instructions:**
 
-**Testcase location:** /absolute/path/to/testcase
-
-<!-- Please modify file permissions to allow access for reviewers! -->
-
-* Compiler used:
-* Non-default configure settings:
-* Additional recommended testing:
-
-<!-- DELETE TEXT BELOW BEFORE SUBMITTING -->
-Before clicking submit:
-* Double-check you have targeted the correct branch.
-* Click the gear icons to the right to...
-  * Request a review from a reviewer or team (e.g., Acceptors, LSM).
-  * Select the relevant labels to help us categorize this PR.
+<!--
+  Use the gear icons to the right to...
+  * Link an Issue
+  * Request reviewers
+  * Add descriptive labels
+-->
