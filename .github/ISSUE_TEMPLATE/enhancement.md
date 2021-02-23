@@ -1,14 +1,15 @@
 ---
 name: Enhancement
-about: Propose an enhancement/new feature
+about: Propose or request a new feature!
 title: ''
 labels: enhancement
 assignees: ''
 
 ---
 
-**Description:**
-Replace this line with a description of the proposed enhancement.
+### Description
 
-<!-- If you plan to work on this feature, assign yourself to this issue.   -->
-<!-- Add appropriate labels (e.g., Help Wanted, Discussion Needed).  -->
+Replace this text with a concise description of the proposed enhancement.
+
+<!-- If you plan to implement this feature, assign yourself to this Issue. -->
+<!-- Add appropriate labels (e.g., Discussion Needed).  -->
