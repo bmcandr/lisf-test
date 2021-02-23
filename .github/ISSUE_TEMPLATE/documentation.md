@@ -1,13 +1,12 @@
 ---
 name: Documentation
-about: Missing or inadequate documentation?
+about: Help us improve the Users' Guides.
 title: ''
 labels: documentation
 assignees: ''
 
 ---
 
-**Description:**
-Replace this line with a description of the documentation that is missing or in need of improvement.
+Replace this text with a description of the missing or broken documentation.
 
-<!-- If you plan to update the docs, assign yourself to this issue. -->
+<!-- If you plan to update the docs, assign yourself to this Issue. -->
