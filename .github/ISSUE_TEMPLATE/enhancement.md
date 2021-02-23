@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-### Description
-
 Replace this text with a concise description of the proposed enhancement.
 
 <!-- If you plan to implement this feature, assign yourself to this Issue. -->
